@@ -1,0 +1,39 @@
+
+
+body#all div.allnav,body#all h4.allnav,
+body#hol div.holnav,body#hol h4.holnav,
+body#wed div.wednav,body#wed h4.wednav,
+body#sea div.seanav,body#sea h4.seanav,
+body#pre div.prenav,body#pre h4.prenav,
+body#bab div.babnav,body#bab h4.babnav,
+body#bir div.birnav,body#bir h4.birnav,
+body#fam div.famnav,body#fam h4.famnav,
+body#fri div.frinav,body#fri h4.frinav,
+body#cou div.counav,body#cou h4.counav,
+body#kid div.kidnav,body#kid h4.kidnav,
+body#gra div.granav,body#gra h4.granav,
+body#all a#photobooknav,
+body#hol a#photobooknav,
+body#wed a#photobooknav,
+body#sea a#photobooknav,
+body#pre a#photobooknav,
+body#bab a#photobooknav,
+body#bir a#photobooknav,
+body#fam a#photobooknav,
+body#fri a#photobooknav,
+body#cou a#photobooknav,
+body#kid a#photobooknav,
+body#gra a#photobooknav
+{
+
+color: rgba(255, 255, 255, 1);
+font-weight: bolder;
+font: 10px Arial, sans-serif;
+background: #0E6CC4;
+letter-spacing: 2px
+}
+
+
+
+
+

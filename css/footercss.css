@@ -1,0 +1,124 @@
+
+#footer {
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+
+#footeratas {
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-radius: 10px 10px 0 0;
+	width: 900px;
+
+}
+
+
+.footerrow{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-left: 2%;
+}
+
+.footerkata{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+	-webkit-font-smoothing: antialiased;
+	width:900px;
+	padding-top: 30px;
+	line-height: 10px;
+}
+
+.footlogo {
+	padding-top:25px;
+	text-align: center;
+	margin-top: 10%;
+}
+
+#twitter{
+	margin-top: 4%;
+}
+
+.footsocial{
+	padding-top:10px;
+	text-align: center;
+}
+
+.jarakfootbawah {
+	padding-top:30px;
+	padding: 9px 0 0 54px;
+}
+
+.tinggicol {
+	height:250px;
+}
+
+.tinggicolbawah {
+	height:150px;
+}
+
+.fontfooter {
+	color:#888;
+}
+
+#footerbawah {
+	border-bottom: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-radius: 0 0 10px 10px;
+	width: 900px;
+}
+
+#footerbawah ul li{
+	padding-bottom: 4px;
+}
+#footerbawah a:hover{
+	color: #000 !important;
+	text-decoration: none !important;
+}
+
+#footerbawah ul{
+	list-style: none outside;
+	font-size: 11px;
+}
+
+#footerbawah h3{
+	color: #666;
+	margin: 0;
+	font: 11px Arial Black, sans-serif;
+	letter-spacing: 1px;
+	line-height: 30px;
+	padding-bottom: 4px;
+}
+
+#copyr {
+	padding-top: 10px;
+	font-size: 10px;
+	font-family: Arial, sans-serif;
+	width: 900px;
+}
+
+#copyr .copyr{
+	float: left;
+	clear: both;
+	
+	text-align: left;
+}
+#copyr p{
+	display: inline;
+	margin: 0;
+}
+#copyr ul, #copyr ul li {
+	display: inline;
+	margin: 0;
+	padding-right: 4px;
+}
+
+#copyr a{
+	color: #428bca !important;
+}
+
+#copyr a:hover{
+}

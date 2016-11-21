@@ -1,0 +1,13 @@
+.header{
+ height: 50px;
+ width: 200px;
+ margin-top: -8%;
+}
+
+.breadcrumb{
+    margin-top: 3%;
+}
+
+body{
+	font-size: 10px;
+}
